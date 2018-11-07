@@ -1,0 +1,12 @@
+/* ==== SIMPLE FOOTER STYLES ==== */
+
+footer {
+  background: url('http://i.imgur.com/f4jGhSF.png') repeat center;
+  display: table;
+  width: 100vw;
+  height: 8rem;
+  text-align: center;
+  padding: 1rem;
+  font-family: 'Arial', sans-serif;
+  font-size: .875rem;
+}
